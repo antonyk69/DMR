@@ -1,0 +1,24 @@
+#	DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#	Origional idea from Adrian Craig (M0GLJ)
+# Update 01 Des 2025  YD2VLE JZ12ACN
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. NO SPACES!!
+#
+#	Downloaded from http://www.pistar.uk/downloads/DMR_Hosts.txt
+#
+######################################################################################################
+#
+#				BrandMeister Hosts Below
+#
+######################################################################################################
+# Country			DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
+BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
+######################################################################################################
+KRAP_DMR   0000  103.174.114.231	passw0rd	62030
+POSDALOPS  0000  103.187.146.133  passw0rd  62030
+######################################################################################################
